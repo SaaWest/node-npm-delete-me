@@ -1,0 +1,15 @@
+{
+  "name": "npm-delete-me",
+  "version": "1.0.0",
+  "description": "Test Repo for Node, npm, and JS",
+  "main": "index.js",
+  "scripts": {
+    "emoji": "👾"
+  },
+  "keywords": [],
+  "author": "Spencer",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
